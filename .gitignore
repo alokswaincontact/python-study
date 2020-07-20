@@ -140,3 +140,7 @@ cython_debug/
 # VIM swp files
 *.swp
 *.swo
+
+# Cscope files
+*/cscope.files
+*/cscope.out
